@@ -1,0 +1,2 @@
+Dockerhub    
+docker pull ppanchov/tf-nvidia-cuda:latest
